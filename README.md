@@ -8,7 +8,7 @@ We study collaborative learning systems in which the participants are competitor
 
 ## Code Execution
 
-Simply run the following to reproduce the plots in the paper.
+Simply run the following commands to reproduce the plots in the paper.
 ```
 python3 graphs_dfcl.py
 python3 mnist_dfcl.py
